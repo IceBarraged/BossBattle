@@ -100,6 +100,7 @@ def main():
                          elif(BossChoice =="The dragon lets out a mighty roar!"):
                               print("Rocks fall from the roof of the cave, but you block them with your shield!")
                               print("The dragon hurt itself in it's confusion! ;)")
+                              BossHP = BossHP - 40
                          elif(BossChoice =="The dragon attempts to stomp"):
                               print("The dragon crushes you between a wall and your shield!!")
                               P1HP = P1HP - 20
