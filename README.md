@@ -1,7 +1,7 @@
 # BossBattle 🐉
 
 <p align="center">
-![KBD_Melee_and_Dragonfire](https://github.com/user-attachments/assets/bbe74cf5-ad53-487a-88d4-9e094929f366)
+  <img width="400" src="https://github.com/user-attachments/assets/af199adc-d25b-426a-9aa1-466ab28dc8b9" alt="Dragon">
 </p>
 
 A terminal-based game where you battle a dragon. (Made with Python.)
